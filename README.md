@@ -1,4 +1,4 @@
-#http-server
+# http-server #
 
 Build your own http-server on Java
 
@@ -28,12 +28,9 @@ For example
 
 ## Design ##
 
-### Class diagram ###
+Both the [class diagram](https://github.com/Wolam/http-server/blob/master/docs/Dise%C3%B1o%20de%20Software%20Proyecto-UML%20clases.png) and [sequence diagram](https://github.com/Wolam/http-server/blob/master/docs/Dise%C3%B1o%20de%20Software%20Proyecto-UML%20secuencia.png) were made using the SOLID principles
 
-![class](https://github.com/IC-6821/ic-6821-2021i-p2-uncle-munguia-software-design/blob/master/diagrams/Dise%C3%B1o%20de%20Software%20Proyecto-UML%20clases.png)
-### Sequence diagram ###
 
-![sequence](https://github.com/IC-6821/ic-6821-2021i-p2-uncle-munguia-software-design/blob/master/diagrams/Dise%C3%B1o%20de%20Software%20Proyecto-UML%20secuencia.png)
 
 
 ---
